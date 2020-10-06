@@ -6,6 +6,6 @@
 - 👯 I’m looking to collaborate on Youtube, Podcasts, Content Writing/Blogs
 - 🤔 I’m looking for help with AI, ML, DS related tech, companies etc
 - 💬 Ask me about R, Python, SQL, DS, ML, AI
-- 📫 How to reach me: https://shanteshmani.com or skm@shanteshmani.com
+- 📫 How to reach me: https://shanteshmani.com | skm@shanteshmani.com | https://linkedin.com/in/shanteshmani
 - ⚡ Fun fact: I'm still thinking...
 

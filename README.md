@@ -13,3 +13,6 @@
 -      linkedin.com/in/shanteshmani
 
 
+![Shantesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shanteshmani&show_icons=true&theme=radical)
+
+
